@@ -1,0 +1,4 @@
+*.jar linguist-vendored
+*.xml linguist-vendored
+src/main/resources/static/** linguist-vendored
+*.java linguist-language=Java
