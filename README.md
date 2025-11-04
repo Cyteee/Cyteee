@@ -1,6 +1,6 @@
 ### Olá eu sou o Marcelo Tanan
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyteee&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyteee&layout=compact&theme=transparent)
 
 ## Tecnologias que eu uso
 <div style="display: inline_block"><br/>
