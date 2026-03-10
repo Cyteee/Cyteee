@@ -20,11 +20,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Back-end
 
 ---
 
-### 🚀 O que estou estudando e construindo agora?
+### O que estou estudando e construindo agora?
 - Integrações nativas com banco de dados relacional utilizando **JDBC** e **SQL Puro**.
 - Mapeamento Objeto-Relacional (**ORM**) avançado com **JPA e Hibernate**.
 - Transição de modelagem de dados para estruturas **NoSQL** com **MongoDB**.
 - Desenvolvimento, roteamento e documentação de **APIs REST** utilizando **Spring Boot**.
 
-### 📫 Como me encontrar:
+### Como me encontrar:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelotanan/)
