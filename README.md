@@ -20,13 +20,13 @@ Desenvolvedor Back-end com foco na construção de APIs RESTful robustas e escal
 
 ---
 
-### 🚀 O que estou construindo e estudando agora?
+### 🚀 **O que estou construindo e estudando agora? (Operação Código em Produção)**
 
-* ⚙️ **Arquitetura e Boas Práticas:** Refatoração de APIs sob os princípios **SOLID** e diretrizes de *Clean Code*, garantindo o isolamento das lógicas de negócio em serviços coesos.
-* 📚 **Documentação de APIs:** Integração do **Swagger/OpenAPI** para gerar documentação interativa e automatizada em tempo real.
-* 🗄️ **Banco de Dados Avançado:** Modelagem de dados, *queries* complexas e agregações financeiras utilizando **PostgreSQL** e **SQL**.
-* ☁️ **DevOps e Deploy:** Configuração de *pipelines* de deploy contínuo (**CI/CD**) para manter as aplicações disponíveis em produção com zero *downtime*.
-* 🧠 **Algoritmos e Estruturas de Dados:** Resolução de desafios lógicos em inglês (*HackerRank*) focando na otimização de performance e eficiência computacional.
+* 🏢 **Engenharia de Software no Mundo Real:** Desenvolvimento ativo de um sistema PDV comercial real (Padaria Trimar) em arquitetura de microsserviços/API REST. Foco na implementação de regras de negócio críticas e controle de estoque blindado com isolamento e garantia de *rollback* via `@Transactional`.
+* 🗄️ **Versionamento e Arquitetura de Banco de Dados:** Controle absoluto sobre o banco de dados utilizando **Flyway** e **PostgreSQL**. Abandono de migrações automáticas de ORM em prol de scripts DDL/DML rigorosos para ambientes de produção.
+* 🛡️ **Blindagem e Qualidade de Código:** Cobertura de código implacável utilizando testes unitários e de integração (**JUnit 5, Mockito e @SpringBootTest**), com a regra de "nenhum PR é mergeado sem teste verde". Auditoria estática de código aplicada através do **SonarLint**.
+* 🔐 **Segurança Automatizada:** Implementação avançada de **Spring Security com JWT** para autenticação e autorização (RBAC), incluindo testes de segurança automatizados no pipeline utilizando `@WithMockUser`.
+* 🧠 **Algoritmos de Alta Performance (Big Tech Prep):** Treinamento tático diário (LeetCode) focado em Otimização de Complexidade de Tempo e Espaço ($O(n)$, $O(1)$). Domínio prático de técnicas de alta escalabilidade computacional como *Two Pointers*, *Hash Maps* e iterações lineares em *Arrays*.
 
 ---
 
