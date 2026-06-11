@@ -21,10 +21,8 @@ Desenvolvedor Back-end com foco na construção de APIs RESTful robustas e escal
 
 ### 🚀 **O que estou construindo e estudando agora? (Operação Código em Produção)**
 
-* 🏢 **Engenharia de Software no Mundo Real:** Desenvolvimento ativo de um sistema PDV comercial real (Padaria Trimar) em arquitetura de microsserviços/API REST. Foco na implementação de regras de negócio críticas e controle de estoque blindado com isolamento e garantia de *rollback* via `@Transactional`.
-* 🗄️ **Versionamento e Arquitetura de Banco de Dados:** Controle absoluto sobre o banco de dados utilizando **Flyway** e **PostgreSQL**. Abandono de migrações automáticas de ORM em prol de scripts DDL/DML rigorosos para ambientes de produção.
-* 🛡️ **Blindagem e Qualidade de Código:** Cobertura de código implacável utilizando testes unitários e de integração (**JUnit 5, Mockito e @SpringBootTest**), com a regra de "nenhum PR é mergeado sem teste verde". Auditoria estática de código aplicada através do **SonarLint**.
-* 🔐 **Segurança Automatizada:** Implementação avançada de **Spring Security com JWT** para autenticação e autorização (RBAC), incluindo testes de segurança automatizados no pipeline utilizando `@WithMockUser`.
+* 🏢 **Engenharia de Software no Mundo Real (Operação Pivotagem):** Liderando a transição e a reconstrução absoluta do zero de um sistema PDV comercial (Projeto Padaria Trimar). A base legada foi implodida para dar lugar a uma arquitetura limpa e escalável utilizando **Java 21, Spring Boot 3 e conteinerização com Docker**. O foco atual é o desenvolvimento de APIs REST resilientes, implementando regras de negócio críticas e controle de estoque totalmente blindado com garantia de *rollback* seguro via `@Transactional`.
+
 * 🧠 **Algoritmos de Alta Performance (Big Tech Prep):** Treinamento tático diário (LeetCode) focado em Otimização de Complexidade de Tempo e Espaço ($O(n)$, $O(1)$). Domínio prático de técnicas de alta escalabilidade computacional como *Two Pointers*, *Hash Maps* e iterações lineares em *Arrays*.
 
 ---
