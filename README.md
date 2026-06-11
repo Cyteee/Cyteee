@@ -22,6 +22,7 @@ Desenvolvedor Back-end com foco na construção de APIs RESTful robustas e escal
 ### 🚀 **O que estou construindo e estudando agora? (Operação Código em Produção)**
 
 * 🏢 **Engenharia de Software no Mundo Real (Operação Pivotagem):** Liderando a reconstrução absoluta do zero de um sistema PDV comercial (Projeto Padaria Trimar). A base legada foi implodida para dar lugar a uma arquitetura limpa, segura e de alta disponibilidade. O novo motor do ecossistema é impulsionado por **Java 21** e **Spring Boot 3**, com persistência relacional estruturada em **PostgreSQL** e controle de migrações via **Flyway**. A infraestrutura já nasce 100% conteinerizada com **Docker** e **Docker Compose**, preparada para *deploy* escalável e CI/CD. A proteção das APIs RESTful é garantida por **Spring Security** com autenticação via tokens **JWT** (RBAC). O foco cirúrgico da operação é a resiliência corporativa: transações financeiras e controle de estoque com garantia de *rollback* (`@Transactional`), prevenção contra concorrência e blindagem ponta a ponta com Testes Automatizados (JUnit 5 e Mockito).
+* 
 * 🧠 **Algoritmos de Alta Performance (Big Tech Prep):** Treinamento tático diário (LeetCode) focado em Otimização de Complexidade de Tempo e Espaço ($O(n)$, $O(1)$). Domínio prático de técnicas de alta escalabilidade computacional como *Two Pointers*, *Hash Maps* e iterações lineares em *Arrays*.
 
 ---
