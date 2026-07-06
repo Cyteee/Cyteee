@@ -21,11 +21,9 @@ Desenvolvedor Back-end com foco na construção de APIs RESTful robustas e escal
 
 ### 🚀 **O que estou construindo e estudando agora? (Operação Lógica Bruta)**
 
-* 🧠 **Algoritmos de Alta Performance (Big Tech Prep):** Imersão absoluta e inegociável na engenharia reversa de algoritmos. Treinamento tático focado em otimização extrema de complexidade de tempo e espaço ($O(N)$, $O(\log N)$, $O(1)$). O foco está na construção de memória muscular lógica e resolução de problemas sob pressão, sem uso de força bruta.
+* 🧠 **Algoritmos de Alta Performance & Padrões Avançados:** Imersão absoluta na engenharia reversa de algoritmos e treinamento tático focado em otimização extrema de complexidade de tempo e espaço ($O(N)$, $O(\log N)$, $O(1)$). Domínio prático e aplicação rigorosa de padrões de alta escalabilidade computacional como *Two Pointers*, *Sliding Window*, *Binary Search* e *Hash Maps/Sets*.
 
-* ⚙️ **Estruturas de Dados & Padrões Avançados:** Domínio prático na manipulação de memória e referências estruturais. Operações avançadas com *Linked Lists* (Reverse, Merge, Cycle), varredura linear otimizada em *Arrays* e *Strings*, algoritmos de divisão de terreno e introdução a *Binary Trees* e *Dynamic Programming*.
-
-* 🎯 **Arsenal Tático de Resolução:** Aplicação rigorosa de padrões de alta escalabilidade computacional como *Two Pointers*, *Sliding Window*, *Binary Search* e *Hash Maps/Sets*. A regra de engenharia do perfil é clara: zero commits copiados. Todo código reflete a matemática validada antes de tocar no teclado.
+* ⚙️ **Estruturas de Dados & Execução Blindada:** Resolução de problemas sob pressão envolvendo manipulação avançada de *Linked Lists* (Reverse, Merge, Cycle), varredura linear em *Arrays/Strings* e algoritmos de divisão de terreno. A regra de engenharia do perfil é inegociável: zero commits copiados. Todo código reflete a matemática validada antes de tocar no teclado.
 
 ---
 
