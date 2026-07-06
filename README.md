@@ -19,11 +19,13 @@ Desenvolvedor Back-end com foco na construção de APIs RESTful robustas e escal
 
 ---
 
-### 🚀 **O que estou construindo e estudando agora? (Operação Código em Produção)**
+### 🚀 **O que estou construindo e estudando agora? (Operação Lógica Bruta)**
 
-* **🏢 Engenharia de Software & Governança (Projeto Padaria Trimar):** Liderando a infraestrutura de dados, automação de processos e governança de plataforma de um sistema PDV comercial real. Sou responsável por estruturar o versionamento evolutivo do banco de dados (PostgreSQL) via Flyway Migrations e garantir ambientes de desenvolvimento consistentes e reprodutíveis utilizando Docker e Docker Compose (com Dockerfiles de multi-stage build otimizados). Desenvolvi o motor de controle de estoque baseado em Lotes e Perecíveis (FIFO), automatizando a expiração e o bloqueio automático de insumos no banco através de tarefas agendadas com Spring @Scheduled. Para acelerar o fluxo de entrega do time, liderei a padronização dos contratos de API integrando OpenAPI 3.0 / Swagger UI, eliminando qualquer gargalo de comunicação com o Front-end.
+* 🧠 **Algoritmos de Alta Performance (Big Tech Prep):** Imersão absoluta e inegociável na engenharia reversa de algoritmos. Treinamento tático focado em otimização extrema de complexidade de tempo e espaço ($O(N)$, $O(\log N)$, $O(1)$). O foco está na construção de memória muscular lógica e resolução de problemas sob pressão, sem uso de força bruta.
 
-* 🧠 **Algoritmos de Alta Performance (Big Tech Prep):** Treinamento tático diário (LeetCode) focado em Otimização de Complexidade de Tempo e Espaço ($O(n)$, $O(1)$). Domínio prático de técnicas de alta escalabilidade computacional como *Two Pointers*, *Hash Maps* e iterações lineares em *Arrays*.
+* ⚙️ **Estruturas de Dados & Padrões Avançados:** Domínio prático na manipulação de memória e referências estruturais. Operações avançadas com *Linked Lists* (Reverse, Merge, Cycle), varredura linear otimizada em *Arrays* e *Strings*, algoritmos de divisão de terreno e introdução a *Binary Trees* e *Dynamic Programming*.
+
+* 🎯 **Arsenal Tático de Resolução:** Aplicação rigorosa de padrões de alta escalabilidade computacional como *Two Pointers*, *Sliding Window*, *Binary Search* e *Hash Maps/Sets*. A regra de engenharia do perfil é clara: zero commits copiados. Todo código reflete a matemática validada antes de tocar no teclado.
 
 ---
 
